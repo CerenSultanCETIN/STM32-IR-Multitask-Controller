@@ -1,3 +1,7 @@
+<img width="887" height="637" alt="image" src="https://github.com/user-attachments/assets/278c772a-882c-450b-ba00-d71fde781273" />
+
+
+
 🛸 IR-Sentinel: High-Performance Multi-Peripheral Control System
 A sophisticated embedded systems architecture designed for the STM32F401RE (ARM Cortex-M4). This project demonstrates an advanced approach to real-time peripheral orchestration, featuring synchronized stepper motor drive and zero-flicker display multiplexing without the overhead of an RTOS.
 
